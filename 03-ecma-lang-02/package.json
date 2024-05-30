@@ -1,0 +1,15 @@
+{
+  "name": "03-ecma-lang-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "description": "Operators, Expressions",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
