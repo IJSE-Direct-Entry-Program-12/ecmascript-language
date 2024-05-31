@@ -1,5 +1,5 @@
 {
-  "name": "03-ecma-lang-03",
+  "name": "06-ecma-lang-05",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
   "license": "MIT",
-  "description": "Operators and Expressions - II",
+  "description": "Statements - II",
   "devDependencies": {
     "nodemon": "^3.1.2"
   }

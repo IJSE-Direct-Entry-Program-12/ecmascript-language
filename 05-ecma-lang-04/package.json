@@ -1,0 +1,14 @@
+{
+  "name": "05-ecma-lang-04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon global2.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "description": "ECMAScript Statements",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
