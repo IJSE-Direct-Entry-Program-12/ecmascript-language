@@ -1,0 +1,14 @@
+{
+  "name": "07-ecma-lang-06",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index5.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "description": "Iterable Protocol, Iterator Protocol, Generators, Loops",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
