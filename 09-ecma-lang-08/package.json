@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index25.js"
+    "start": "nodemon index35.js"
   },
   "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
   "license": "MIT",
