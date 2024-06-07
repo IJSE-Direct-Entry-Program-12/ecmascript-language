@@ -1,0 +1,14 @@
+{
+  "name": "10-ecma-lang-09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index6.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk>",
+  "license": "MIT",
+  "description": "Object Initializer, Arrays, Strings, Regular Expressions, Destructuring, Modules",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
