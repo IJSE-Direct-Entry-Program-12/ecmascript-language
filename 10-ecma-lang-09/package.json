@@ -7,7 +7,7 @@
   },
   "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk>",
   "license": "MIT",
-  "description": "Object Initializer, Arrays, Strings, Regular Expressions, Destructuring, Modules",
+  "description": "Object Initializer, Arrays, Destructuring",
   "devDependencies": {
     "nodemon": "^3.1.3"
   }
