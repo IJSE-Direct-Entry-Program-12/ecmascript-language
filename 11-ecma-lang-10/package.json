@@ -1,0 +1,15 @@
+{
+  "name": "11-ecma-lang-10",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index10.js"
+  },
+  "keywords": [],
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "description": "Conversions, Strings, Regular Expressions, Modules, Concurrency Model",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
